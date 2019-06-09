@@ -29,4 +29,4 @@ This program use the math arbitrary precision for the TI-84+ CE calculators <a h
 
 * Launch the program CGRAPH.
 
-* Choose with the keyboard the precesion you want, enjoy.
+* Choose with the keyboard the precision you want, enjoy.
