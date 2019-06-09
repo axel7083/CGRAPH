@@ -19,3 +19,14 @@ This program use the math arbitrary precision for the TI-84+ CE calculators <a h
 </p>
 
 
+## How to use
+
+* Download [CGRAPH.8xp](https://github.com/axel0070/CGRAPH/releases/latest).
+
+* send it to your calculator using TI Connect CE.
+
+* Put your function f(X,Y) in the Y1 section of the default graph of the calculator.
+
+* Launch the program CGRAPH.
+
+* Choose with the keyboard the precesion you want, enjoy.
