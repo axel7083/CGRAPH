@@ -59,67 +59,16 @@ void run() {
         float x = sensitivity*sin(cameraRot[1]);
         float y = sensitivity*cos(cameraRot[1]);
 
-		/*
-        key = kb_ScanGroup(kb_group_1);
-        switch (key) {
-        case kb_2nd:
-            cameraPos[1]+=sensitivity;
-				display();
-
-            break;
-        case kb_Mode:
-            cameraPos[0]+=x;
-            cameraPos[2]+=y;
-				display();
-
-            break;
-        }
-
-        key = kb_ScanGroup(kb_group_2);
-        switch (key) {
-        case kb_Math:
-            cameraPos[1]-=sensitivity;
-				display();
-
-            break;
-        case kb_Alpha:
-            cameraPos[0]-=y;
-            cameraPos[2]+=x;
-				display();
-
-            break;
-        }
-
-        key = kb_ScanGroup(kb_group_3);
-        if (key == kb_Apps) { cameraPos[0]-=x;
-							  cameraPos[2]-=y; 
-							  display(); }
-
-        key = kb_ScanGroup(kb_group_4);
-        if (key == kb_Stat) { cameraPos[0]+=y;
-						      cameraPos[2]-=x;
-							  display(); }
-
-							  
-        key = kb_ScanGroup(kb_group_7);
-        switch (key) {
-        case kb_Up:
-
-            break;
-        case kb_Down:
-
-            break;
-        case kb_Left:
-
-            break;
-        case kb_Right:
- SpecialdrawEdges(1);
-            break;
-        }
 		
-		*/
+        key = kb_ScanGroup(kb_group_1);
+		
+		if(key == kb_2nd)
+		{
+			run = 0;
+		}
+		
     }
-	}
+}
 
 void display(void)
 {

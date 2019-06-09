@@ -9,8 +9,10 @@ This program use the math arbitrary precision for the TI-84+ CE calculators <a h
 ## Examples
 
 <p align="center">
-  <b>f(x,y) = cos(sin(x*y))</b>
+  <b>f(x,y) = cos(sin(x*y))</b><br>
   <img src="https://github.com/axel0070/CGRAPH/blob/master/screnshot/cos(sin(xy))%20P1.png">
+  <b>f(x,y) = sqrt( |x*y| )</b><br>
+  <img src="https://github.com/axel0070/CGRAPH/blob/master/screnshot/sqrt(abs(xy))%20P1.png">
 </p>
 
 
