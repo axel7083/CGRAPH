@@ -1,16 +1,8 @@
-# PineappleCAS [![Build Status](https://travis-ci.org/nathanfarlow/PineappleCAS.svg)](https://travis-ci.org/nathanfarlow/PineappleCAS)
+# CGRAPH 
 
-A generic CAS targeted for the TI-84+ CE calculators. Designed as a faster, cleaner, more useful, memory-leak-free alternative to the [SymbolicDerivative](https://github.com/nathanfarlow/SymbolicDerivative) project.
+This repository is a fork of https://github.com/nathanfarlow/PineappleCAS
 
-PineappleCAS uses the imath library for arbitrary precision math: https://github.com/creachadair/imath
+## Examples
+![cos(sin(x*y))](https://raw.githubusercontent.com/axel0070/CGRAPH/master/screnshot/cos(sin(xy))%20P1.png?token=AKBY64VYK6NEBARCQNUB6V247U7WO)
 
-## TODO
-- [X] Parse expression
-- [X] Implement arbitrary precision math
-- [ ] Simplify expression
-- [ ] Export expression
-- [ ] Solve derivative
-- [ ] Factor
-- [ ] Expand
-- [ ] Solve limits
-- [ ] Integrals?
+
