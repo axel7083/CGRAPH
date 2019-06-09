@@ -6,8 +6,6 @@ This program use the math arbitrary precision for the TI-84+ CE calculators <a h
 
 This program is a "proof of concept". It was made for fun, and is no longer supported.
 
-
-
 ## Examples
 
 <p align="center">
@@ -38,3 +36,6 @@ This program is a "proof of concept". It was made for fun, and is no longer supp
 * The program don't recognize "forbidden value" it just put 0 at this point.
 
 * Can't move the camera (Not implemented too slow)
+
+
+Thanks a lot to <a href="https://github.com/nathanfarlow">@nathanfarlow</a> for his help with his library and advises.
